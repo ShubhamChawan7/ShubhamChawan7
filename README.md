@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubham
 
-<!--
-**ShubhamChawan7/ShubhamChawan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Certified Data Analyst  SQL • Power BI • Python • Excel  Data Analytics & Visualization  EDA Specialist • 🛡️ Insurance Industry Experience
 
-Here are some ideas to get you started:
+I bring a strong foundation in data analytics, machine learning, and business intelligence, backed by hands-on projects across domains like crime analysis, e-commerce, and automation. With a background in the insurance sector and a passion for solving real-world problems through data, I’m building a portfolio that reflects both technical depth and strategic thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Skills & Tools
+- **Programming & Analysis**: Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
+- **Data Handling**: SQL (MySQL, PyMySQL), Excel
+- **Visualization**: Power BI, Matplotlib, Seaborn
+- **Machine Learning**: Regression models, feature engineering, hyperparameter tuning, GridSearchCV
+- **Automation & GUI**: Tkinter, smtplib, MIME, error handling
+
+## 📁 Projects
+Currently curating a portfolio of analytics and automation projects that demonstrate impact, clarity, and technical rigor. Repositories coming soon.
+
+## 🚀 What I'm Focused On
+- Publishing high-quality data projects
+- Preparing for Data Analyst interviews
+- Expanding my technical toolkit
+
+## 📫 Let's Connect
+- [LinkedIn](www.linkedin.com/in/shubhamchawan)
+- [Email](mailto:shubham.chawan77@gmial.com)
+
+---
+
+Thanks for visiting — more projects and insights coming soon!
